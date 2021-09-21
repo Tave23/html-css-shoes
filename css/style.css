@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik Mono One', sans-serif;
+  text-transform: uppercase;
+}
+
+.scarpe{
+  width: 100%;
+  height: 100vh;
+}
+
+.prime{
+  background-color: red;
+}
+
+.seconde{
+  background-color: green;
+}
+
+.terze{
+  background-color: yellow;
+}
