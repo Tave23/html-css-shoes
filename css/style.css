@@ -57,7 +57,11 @@ a:hover{
 }
 
 .box-text{
-  color: brown;
+  color: yellow;
+}
+
+#third-text{
+  color: green;
 }
 
 .prime{
