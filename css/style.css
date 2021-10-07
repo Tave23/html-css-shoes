@@ -43,21 +43,26 @@ a:hover{
 
 .scarpe{
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .container{
   width: 70%;
+  height: 100%;
   margin: 0 auto;
+  padding-top: -40px;
   text-align: center;
 }
 
-.box-img{
-  margin-bottom: -40px;
+.box-img img{
+  width: 70%;
 }
 
 .box-text{
+  font-size: 25px;
   color: yellow;
+  padding-top: 40px;
+  height: 30%;
 }
 
 #third-text{
@@ -77,5 +82,5 @@ a:hover{
 }
 
 .box-text{
-  font-size: 25px;
+  
 }
