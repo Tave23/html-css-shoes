@@ -59,11 +59,11 @@ a:hover{
   font-size: 25px;
   color: yellow;
   text-align: center;
-  
+  width: 70vw;
 }
 
-.box-img{
-
+.box-img img{
+  width: 100%;
 }
 
 #third-text{
