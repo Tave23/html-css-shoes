@@ -44,9 +44,11 @@ a:hover{
 .scarpe{
   width: 100vw;
   height: 100vh;
+  position: relative;
 }
 
 .container{
+  position: absolute;
   position: absolute;
   transform: translate(-50% , -50%);
   top: 50%;
@@ -57,6 +59,11 @@ a:hover{
   font-size: 25px;
   color: yellow;
   text-align: center;
+  
+}
+
+.box-img{
+
 }
 
 #third-text{
